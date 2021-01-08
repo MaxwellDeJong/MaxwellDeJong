@@ -2,7 +2,7 @@
 
 #### Languages and Tools
 [<img align="left" alt="Python" height="36px" src="/images/python.png" />](https://python.org) 
-[<img align="left" alt="C" height="36px" src="/images/c.png" />](https://programviz.com/c-programming)
+[<img align="left" alt="C" height="36px" src="/images/c.png" />](https://programiz.com/c-programming)
 [<img align="left" alt="C++" height="36px" src="/images/cpp.svg" />](https://cplusplus.com)
 [<img align="left" alt="CUDA" height="36px" src="/images/cuda.svg" />](https://developer.nvidia.com/cuda-toolkit)
 [<img align="left" alt="Cython" height="36px" src="/images/cython.jpeg" />](https://cython.org)
