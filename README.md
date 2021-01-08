@@ -8,7 +8,7 @@
 [<img align="left" alt="Cython" height="52px" src="/images/cython.jpeg" />](https://cython.org)
 [<img align="left" alt="Open MPI" height="52px" src="/images/open-mpi.png" />](https://open-mpi.org)
 [<img align="left" alt="GitHub" height="52px" src="/images/github.png" />](https://github.com)
-[<img align="left" alt="NumPy" height="52px" src="/images/numpy.png" />](https://numpy.org)
+[<img align="left" alt="NumPy" height="52px" src="/images/numpy.svg" />](https://numpy.org)
 [<img align="left" alt="SciPy" height="52px" src="/images/scipy.png" />](https://scipy.org)
 [<img align="left" alt="PyTorch" height="52px" src="/images/pytorch.png" />](https://pytorch.org)
 [<img align="left" alt="Tensorflow" height="52px" src="/images/tensorflow.png" />](https://tensorflow.org)
